@@ -1,5 +1,5 @@
-#Simple Calculator App using React
+# Simple Calculator App using React
 
-##Screenshots
+## Screenshots
 
 ![Home Screenshot](./public/Images/screenShot.png "Optional Title")
