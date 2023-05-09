@@ -1,4 +1,4 @@
-# Simple Calculator App using React
+# Simple Calculator App using React (v1.0)
 
 ## Screenshots
 
